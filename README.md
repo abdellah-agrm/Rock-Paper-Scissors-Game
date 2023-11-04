@@ -22,6 +22,9 @@ Welcome to the Rock Paper Scissors Game, a simple yet fun web-based game where y
 - JavaScript
 - Bootstrap
 
+### Screenshot
+![Rock Paper Scissors Game](https://i.imgur.com/hmXd09G.jpg)
+
 ### How to Contribute
 If you'd like to contribute to the project, feel free to fork the repository and submit a pull request with your improvements or new features. You can find the project on [GitHub](https://github.com/TheAdmi/).
 
