@@ -3,7 +3,7 @@
 Welcome to the Rock Paper Scissors Game, a simple yet fun web-based game where you can play the classic hand game against the computer. Test your luck and strategy in this engaging game.
 
 ### How to Play
-1. Visit the [Rock Paper Scissors Game Demo](http://beastechnologies.me/Rock-Paper-Scissors-Game/).
+1. Visit the [Rock Paper Scissors Game Demo](https://abdellah-agrm.github.io/CupCake-responsive-landing-page/).
 2. You'll be presented with images of Rock, Paper, and Scissors.
 3. Click on one of the hand images (Rock, Paper, or Scissors) to make your choice.
 4. The computer will randomly select its choice.
